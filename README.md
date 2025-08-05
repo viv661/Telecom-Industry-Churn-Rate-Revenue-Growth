@@ -26,7 +26,7 @@ By leveraging **Pandas, Matplotlib, and Seaborn**, the project identifies churn 
 
 ## 📂 Project Workflow
 1. **Data Loading & Cleaning:**
-   - Imported telecom customer dataset (~250k rows).
+   - Imported telecom customer dataset.
    - Removed duplicates and handled missing values.
 
 2. **Exploratory Data Analysis (EDA):**
