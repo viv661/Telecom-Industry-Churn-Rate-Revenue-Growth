@@ -49,10 +49,15 @@ By leveraging **Pandas, Matplotlib, and Seaborn**, the project identifies churn 
 - Offering **personalized retention offers** can significantly reduce churn.
 - **Revenue growth** can be achieved by targeting specific customer segments.
 
+## Model for Prediction of Churn Rate
+-EDA: Visualized data distributions and correlations to identify churn patterns.
+-Data Preprocessing & Feature Engineering: Cleaned data, encoded categories, and created features.
+-Train-Test Split & Modeling: Split dataset into training and testing sets and trained a Logistic Regression model.
+- Evaluation: Assessed performance using accuracy (~80%).
 ---
 
 ## 🚀 Results & Impact
-- **Churn reduction potential:** Up to 15–20% with targeted actions.  
+- **Churn reduction potential:** Up to 12.03% with targeted actions.  
 - **Improved customer lifetime value** through loyalty-focused strategies.
 
 ---
