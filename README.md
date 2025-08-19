@@ -1,4 +1,3 @@
-# Telecom-Industry-Churn-Rate-Revenue-Growth
 # Telecom Churn Rate Analysis & Revenue Growth
 
 ## Project Overview
