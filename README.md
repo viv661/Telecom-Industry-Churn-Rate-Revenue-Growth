@@ -1,5 +1,5 @@
 # Telecom-Industry-Churn-Rate-Revenue-Growth
-# 📊 Telecom Churn Rate Analysis & Revenue Growth
+# Telecom Churn Rate Analysis & Revenue Growth
 
 ## 📌 Project Overview
 This project focuses on analyzing **customer churn in the telecom industry** using Python and statistical methods.  
@@ -7,7 +7,7 @@ By leveraging **Pandas, Matplotlib, and Seaborn**, the project identifies churn 
 
 ---
 
-## 🔑 Key Objectives
+## Key Objectives
 - Analyze **customer churn rate** in the telecom sector.
 - Identify key **factors contributing to churn** using statistical analysis.
 - Create **data visualizations** to uncover trends in customer behavior.
@@ -15,7 +15,7 @@ By leveraging **Pandas, Matplotlib, and Seaborn**, the project identifies churn 
 
 ---
 
-## 🛠️ Tools & Libraries Used
+## Tools & Libraries Used
 - **Python 3.x**
 - **Pandas** – Data manipulation and analysis  
 - **Matplotlib** – Data visualization  
@@ -24,7 +24,7 @@ By leveraging **Pandas, Matplotlib, and Seaborn**, the project identifies churn 
 
 ---
 
-## 📂 Project Workflow
+## Project Workflow
 1. **Data Loading & Cleaning:**
    - Imported telecom customer dataset.
    - Removed duplicates and handled missing values.
@@ -44,7 +44,7 @@ By leveraging **Pandas, Matplotlib, and Seaborn**, the project identifies churn 
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Customers with **low tenure and high complaints** are most likely to churn.
 - Offering **personalized retention offers** can significantly reduce churn.
 - **Revenue growth** can be achieved by targeting specific customer segments.
@@ -56,13 +56,13 @@ By leveraging **Pandas, Matplotlib, and Seaborn**, the project identifies churn 
 - Evaluation: Assessed performance using accuracy (~80%).
 ---
 
-## 🚀 Results & Impact
+## Results & Impact
 - **Churn reduction potential:** Up to 12.03% with targeted actions.  
 - **Improved customer lifetime value** through loyalty-focused strategies.
 
 ---
 
-## 📜 How to Run This Project
+## How to Run This Project
 1. Clone the repository:
    ```bash
    git clone https://github.com/viv661/Telecom-Industry-Churn-Rate-Revenue-Growth/blob/main/telecom.ipynb
