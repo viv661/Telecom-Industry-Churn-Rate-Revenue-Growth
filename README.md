@@ -1,7 +1,7 @@
 # Telecom-Industry-Churn-Rate-Revenue-Growth
 # Telecom Churn Rate Analysis & Revenue Growth
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on analyzing **customer churn in the telecom industry** using Python and statistical methods.  
 By leveraging **Pandas, Matplotlib, and Seaborn**, the project identifies churn patterns, visualizes insights, and proposes strategies to **reduce churn and increase revenue**.
 
